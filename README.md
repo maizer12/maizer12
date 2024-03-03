@@ -54,10 +54,6 @@ I build compelling websites and applications using HTML, CSS, JS, React and Vue.
 
 <a href="https://github.com/maizer12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maizer12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/maizer12/vaporize2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maizer12&repo=vaporize2.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/maizer12/movies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maizer12&repo=movies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/maizer12/game-arcadion" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maizer12&repo=game-arcadion&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
