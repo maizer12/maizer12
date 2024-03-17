@@ -7,7 +7,7 @@ I build compelling websites and applications using HTML, CSS, JS, React and Vue.
 - 🌍 I'm based in Ukraine, Zakarpattia
 - 🖥️ See my portfolio at [resume](http://canva.com/design/DAFnODFfBok/2RMT0x0zPmBXRLkl1X4Xbw/view?utm_content=DAFnODFfBok&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - ✉️ You can contact me at [vasilbazhiv12@gmail.com](mailto:vasilbazhiv12@gmail.com)
-- 🚀 I'm currently working on VibeNet
+- 🚀 I'm currently working on [VibeNet](https://github.com/maizer12/vibenet)
 - 🧠 I'm learning Next js Vue js
 
 ### Skills
